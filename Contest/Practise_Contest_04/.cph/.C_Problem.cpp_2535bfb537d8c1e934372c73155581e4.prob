@@ -1,0 +1,1 @@
+{"name":"Local: C_Problem","url":"c:\\Competitve_Programing\\HP_RAY_CP\\Week01\\contest_04\\C_Problem.cpp","tests":[{"id":1698758955970,"input":"4\n4 2\n1 5\n2 3\n2 2","output":"YES\nYES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Competitve_Programing\\HP_RAY_CP\\Week01\\contest_04\\C_Problem.cpp","group":"local","local":true}

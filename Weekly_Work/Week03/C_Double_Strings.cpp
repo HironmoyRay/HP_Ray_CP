@@ -1,3 +1,4 @@
+//Double_Strings
 #include<bits/stdc++.h>
 using namespace std;
 int main()
@@ -8,12 +9,13 @@ int main()
         int n; cin>>n;
         vector<string>v(n);
         map<string,bool>mp;
+
         for (int i = 0; i < n; i++)
         {
             cin>>v[i];
             mp[v[i]]=true;
         }
-        for (int j = 0; j <n; j++)
+        for (int j = 0; j < n; j++)
         {
             bool flag=false;
             for (int i = 1; i < v[j].size(); i++)
@@ -30,8 +32,6 @@ int main()
             
         }
         cout<<endl;
-        
-        
     }
     
     return 0;
