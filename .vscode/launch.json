@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Competitve_Programing/HP_RAY_CP/Weekly_Work/Week03",
-      "program": "c:/Competitve_Programing/HP_RAY_CP/Weekly_Work/Week03/build/Debug/outDebug",
+      "cwd": "c:/Competitve_Programing/HP_RAY_CP/Contest/Practise_Contest_06",
+      "program": "c:/Competitve_Programing/HP_RAY_CP/Contest/Practise_Contest_06/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
